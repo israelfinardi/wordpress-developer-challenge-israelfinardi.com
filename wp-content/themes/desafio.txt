@@ -1,0 +1,13 @@
+Fiz uma cópia do projeto usando o meu domínio, o israelfinardi.com
+
+Está disponível em:
+
+israelfinardi.com/play
+
+login: teste@gmail.com
+
+senha: Ya&b#u2jJm(!GWHm!VBEcc!A
+
+para logar e verificar o sistema basta acessar:
+
+israelfinardi.com/wp-admin
